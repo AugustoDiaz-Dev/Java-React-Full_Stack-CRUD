@@ -1,2 +1,2 @@
 
-CRUD written in Java
+# CRUD project with Java and React
